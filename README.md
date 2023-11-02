@@ -10,3 +10,6 @@ Deployed on STreamlit.
 
 # Query
 ![image](https://github.com/sahilkadu96/Project--Stephen-Hawking-chatbot/assets/106151994/bdc52e6f-fc0d-4e5e-bf36-d2f68489491a)
+
+# Chat History
+![image](https://github.com/sahilkadu96/Project--Stephen-Hawking-chatbot/assets/106151994/8c123580-65f1-4737-8c75-e84238ac382d)
