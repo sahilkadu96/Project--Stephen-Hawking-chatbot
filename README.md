@@ -3,7 +3,8 @@
 - Used two PDFs: A Brief History of Time, The Theory of Everything.
 - Converted them into vector embeddings & stored into FAISS database.
 - Used LLM to retrieve answers.
-- Deployed on STreamlit.
+- Refer the **Langchain_Stephawk_PDF_QA.ipynb** notebook for model building.
+- Deployed on Streamlit. Refer the **app.py** file.
 
 # Streamlit Interface
 ![image](https://github.com/sahilkadu96/Project--Stephen-Hawking-chatbot/assets/106151994/54741252-a26e-48e0-b2ca-75d8676947a3)
